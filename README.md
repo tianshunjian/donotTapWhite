@@ -1,6 +1,6 @@
 # donotTapWhite
 
-A classical game —— "Do not tap the white block"
+A classical game —— "Do not tap the white block", developed by Cocos Creator.
 
 It is a Cocos Creator project which can be built to WeChat game, web game, and native games.
 
