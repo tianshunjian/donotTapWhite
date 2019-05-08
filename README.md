@@ -14,9 +14,9 @@ Cocos Creator 1.8.0 or above is needed
 ## Snapshots
 
 <div align="center">
-  <img src="./snapshots/1553223914582.jpg" width="150" height="300"/>
-  <img src="./snapshots/1553223994978.jpg" width="150" height="300"/>
-  <img src="./snapshots/1553224084844.jpg" width="150" height="300"/>
-  <img src="./snapshots/1553224013955.jpg" width="150" height="300"/>
+  <img src="./snapshots/1553223914582.jpg" width="150" height="260"/>
+  <img src="./snapshots/1553223994978.jpg" width="150" height="260"/>
+  <img src="./snapshots/1553224084844.jpg" width="150" height="260"/>
+  <img src="./snapshots/1553224013955.jpg" width="150" height="260"/>
 </div>
 
